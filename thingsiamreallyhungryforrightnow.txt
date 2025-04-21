@@ -4,5 +4,3 @@ cherry
 donut
 eclair
 frappucino
-grapes
-hot chocolate
