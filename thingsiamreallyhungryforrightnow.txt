@@ -2,3 +2,7 @@ apple
 banana
 cherry
 donut
+eclair
+frappucino
+grapes
+hot chocolate
